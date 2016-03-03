@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rutiliiclaudiin01keengoog_0005.png"; bbox 0 0 3207 5149; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 45 0 3159 65">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 45 0 3159 65">
+     <span class='ocr_line' id='line_1_1' title="bbox 45 0 3159 65; baseline 0 5084"><span class='ocrx_word' id='word_1_1' title='bbox 45 0 3159 65; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 771 2425 2370 3002">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 771 2425 2370 3002">
+     <span class='ocr_line' id='line_1_2' title="bbox 771 2425 2370 2547; baseline 0.003 -4"><span class='ocrx_word' id='word_1_2' title='bbox 771 2425 1147 2543; x_wconf 80' lang='lat' dir='ltr'><strong>Rutilii</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1235 2433 1663 2545; x_wconf 83' lang='lat' dir='ltr'><strong>Claudii</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1757 2436 1867 2543; x_wconf 93' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_5' title='bbox 1877 2439 2370 2547; x_wconf 83' lang='lat' dir='ltr'><strong>amatiani</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1084 2625 2044 2776; baseline 0.004 -4"><span class='ocrx_word' id='word_1_6' title='bbox 1084 2625 1285 2772; x_wconf 69' lang='lat' dir='ltr'><strong>D&#39;e‘</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1343 2666 1744 2773; x_wconf 81' lang='lat' dir='ltr'><strong>Reditu</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1823 2667 2044 2776; x_wconf 88' lang='lat' dir='ltr'><strong>Suo</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1252 2894 1890 3002; baseline 0.003 -2"><span class='ocrx_word' id='word_1_9' title='bbox 1252 2894 1548 3001; x_wconf 90' lang='lat' dir='ltr'><strong>Libri</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1628 2895 1890 3002; x_wconf 90' lang='lat' dir='ltr'><strong>Duo</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

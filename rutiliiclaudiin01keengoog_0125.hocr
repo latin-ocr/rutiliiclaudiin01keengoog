@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rutiliiclaudiin01keengoog_0125.png"; bbox 0 0 3207 5149; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 809 2387 2088 2558">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 809 2387 2088 2558">
+     <span class='ocr_line' id='line_1_1' title="bbox 809 2387 2088 2470; baseline -0.002 -18"><span class='ocrx_word' id='word_1_1' title='bbox 809 2389 961 2452; x_wconf 82' lang='lat' dir='ltr'>Like</span> <span class='ocrx_word' id='word_1_2' title='bbox 991 2390 1162 2468; x_wconf 84' lang='lat' dir='ltr'>ships</span> <span class='ocrx_word' id='word_1_3' title='bbox 1190 2390 1326 2451; x_wconf 79' lang='lat' dir='ltr'><strong>that</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1355 2387 1545 2450; x_wconf 83' lang='lat' dir='ltr'>sailed</span> <span class='ocrx_word' id='word_1_5' title='bbox 1574 2389 1669 2450; x_wconf 78' lang='lat' dir='ltr'>for</span> <span class='ocrx_word' id='word_1_6' title='bbox 1698 2408 1898 2470; x_wconf 83' lang='lat' dir='ltr'>sunny</span> <span class='ocrx_word' id='word_1_7' title='bbox 1926 2388 2088 2461; x_wconf 77' lang='lat' dir='ltr'>isleS‚</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 892 2496 1748 2558; baseline -0.001 -1"><span class='ocrx_word' id='word_1_8' title='bbox 892 2498 1016 2557; x_wconf 77' lang='lat' dir='ltr'>But</span> <span class='ocrx_word' id='word_1_9' title='bbox 1046 2517 1229 2558; x_wconf 84' lang='lat' dir='ltr'><strong>never</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1257 2515 1426 2558; x_wconf 77' lang='lat' dir='ltr'>carne</span> <span class='ocrx_word' id='word_1_11' title='bbox 1456 2502 1518 2557; x_wconf 79' lang='lat' dir='ltr'>to</span> <span class='ocrx_word' id='word_1_12' title='bbox 1548 2496 1748 2558; x_wconf 81' lang='lat' dir='ltr'><strong>shore.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1722 2640 2414 2701">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1722 2640 2414 2701">
+     <span class='ocr_line' id='line_1_3' title="bbox 1722 2640 2414 2701; baseline 0.001 -2"><span class='ocrx_word' id='word_1_13' title='bbox 1722 2640 1971 2701; x_wconf 75' lang='lat' dir='ltr'>Tnoms</span> <span class='ocrx_word' id='word_1_14' title='bbox 2013 2640 2089 2701; x_wconf 91' lang='grc' dir='ltr'>Κ.</span> <span class='ocrx_word' id='word_1_15' title='bbox 2134 2640 2414 2701; x_wconf 74' lang='lat' dir='ltr'><strong>Hmwmr.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
